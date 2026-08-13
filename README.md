@@ -6,6 +6,7 @@ A supply chain analytics dashboard built in Power BI to monitor freight costs, c
 
 
  Key Highlights & Metrics
+ 
 Total Revenue Generated: $288.15K
 Total Logistics Costs: $25.58K
 Total Units Sold: 13,992 units
@@ -18,4 +19,5 @@ Route & Supplier Metrics: Cost distribution across supply routes alongside suppl
 
 
 Tools Used
+
 Power BI Desktop (Treemaps, Funnel Charts, Donut Charts, Dynamic Slicers)
