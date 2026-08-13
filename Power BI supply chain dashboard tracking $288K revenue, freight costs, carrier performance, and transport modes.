@@ -1,0 +1,31 @@
+
+
+Supply Chain & Logistics Performance Dashboard
+
+A supply chain analytics dashboard built in Power BI to monitor freight costs, carrier performance, route efficiency, and revenue generation across beauty product lines (Cosmetics, Haircare, Skincare). The report analyzes $288.15K in total revenue, $25.58K in logistics costs, and 13,992 total products sold.
+
+
+
+ Dashboard Preview
+
+[Supply Chain Dashboard Preview](dashboard.png)
+
+
+
+ Key Highlights & Metrics
+Total Revenue Generated: $288.15K
+Total Logistics Costs: $25.58K
+Total Units Sold: 13,992 units
+Key Insights Analyzed
+Product Line Slicer: Interactive filter allowing instant analysis across Cosmetics, Haircare, and Skincare.
+Transportation Modes: Freight cost and revenue evaluation across Rail,Road, Air, and Sea.
+Carrier Performance: Shipping cost comparison across logistics providers (Carrier A, Carrier B, Carrier C).
+Route & Supplier Metrics: Cost distribution across supply routes alongside supplier revenue contributions.
+
+
+
+Tools Used
+Power BI Desktop (Treemaps, Funnel Charts, Donut Charts, Dynamic Slicers)
+
+
+
